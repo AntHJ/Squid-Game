@@ -1,6 +1,6 @@
 # Squid-Game
 This is my 1st ever attempt at making a game and even tho its not the best, its a little short and ive probably done things a little unusual but it works, im happy about the way it turned out and i had fun creating it.. 
-* this game was created to run using LPP-Vita.. (https://github.com/Rinnegatamante/lpp-vita/releases)
+* Utilises Lua Player Plus Vita (lpp-vita). [Learn more.](https://github.com/Rinnegatamante/lpp-vita)
 ------
 
 ![](https://github.com/AntHJ/Squid-Game/blob/main/Game1.png)
